@@ -1,5 +1,3 @@
-
 print("Hola mundo!")
-print("das")
 
-print("Qué wea")
+print("Qué wea!")
